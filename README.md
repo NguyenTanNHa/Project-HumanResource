@@ -2,12 +2,9 @@
 LẬP TRÌNH GIAO DIỆN ỨNG DỤNG - QUẢN LÝ NHÂN SỰ
 
 Tools and Languages Used in the Project:
-Tools:
+Tools: Visual Studio, SQL Server
 
-Visual Studio
-SQL Server
-Languages/Technologies:
-
++ Languages/Technologies:
 ASP.NET Core 8.0
 HTML
 CSS
